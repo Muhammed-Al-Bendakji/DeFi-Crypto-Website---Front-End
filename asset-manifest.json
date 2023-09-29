@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/DeFi-Crypto-Website---Front-End/static/css/main.76f2a647.css",
+    "main.js": "/DeFi-Crypto-Website---Front-End/static/js/main.fe584091.js",
+    "static/js/787.b0da207e.chunk.js": "/DeFi-Crypto-Website---Front-End/static/js/787.b0da207e.chunk.js",
+    "static/media/hero.svg": "/DeFi-Crypto-Website---Front-End/static/media/hero.561747453b0fe4df81c5b18fd168b3de.svg",
+    "static/media/dev.svg": "/DeFi-Crypto-Website---Front-End/static/media/dev.3a99f3b7e5a98ace81c4ee7da919714a.svg",
+    "static/media/blockchain2.jpg": "/DeFi-Crypto-Website---Front-End/static/media/blockchain2.cc6a2220571f1101341d.jpg",
+    "static/media/blockchain1.jpg": "/DeFi-Crypto-Website---Front-End/static/media/blockchain1.5ef3fb08d06ca8c5580d.jpg",
+    "static/media/blockchain3.jpg": "/DeFi-Crypto-Website---Front-End/static/media/blockchain3.a993961601b1fbe30016.jpg",
+    "static/media/profit1.svg": "/DeFi-Crypto-Website---Front-End/static/media/profit1.2da47f9a3c3ff1a92fa59e10a81604ec.svg",
+    "static/media/logo.svg": "/DeFi-Crypto-Website---Front-End/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/insurance1.svg": "/DeFi-Crypto-Website---Front-End/static/media/insurance1.9859a7f28ae6eed69ae726d92bc5303b.svg",
+    "static/media/wallet1.svg": "/DeFi-Crypto-Website---Front-End/static/media/wallet1.96e3f26dd65ae2405920d77a2638a076.svg",
+    "static/media/discord2.svg": "/DeFi-Crypto-Website---Front-End/static/media/discord2.40789998ac4eaa1b62ce2d64a9d4562b.svg",
+    "static/media/discord.svg": "/DeFi-Crypto-Website---Front-End/static/media/discord.96a68362cd152f3676bc2c54fa777954.svg",
+    "static/media/blog.svg": "/DeFi-Crypto-Website---Front-End/static/media/blog.7ba63494822570c6126a2aa5085a7354.svg",
+    "static/media/youtube2.svg": "/DeFi-Crypto-Website---Front-End/static/media/youtube2.980f973eec44b9cda1099d67f69381c3.svg",
+    "static/media/twitter.svg": "/DeFi-Crypto-Website---Front-End/static/media/twitter.d4aec5631d5442bd1b3ab0dedb29d536.svg",
+    "static/media/youtube.svg": "/DeFi-Crypto-Website---Front-End/static/media/youtube.c98c86aae899644adb55f4c3ae3c9a17.svg",
+    "index.html": "/DeFi-Crypto-Website---Front-End/index.html",
+    "static/media/menu.svg": "/DeFi-Crypto-Website---Front-End/static/media/menu.3c6d26e95d49a925eac3ab47f232f842.svg",
+    "static/media/telegram.svg": "/DeFi-Crypto-Website---Front-End/static/media/telegram.d38a50b105c645b764a5d0bed735557b.svg",
+    "static/media/paper.svg": "/DeFi-Crypto-Website---Front-End/static/media/paper.b55011f7444a8431170282c1efdad221.svg",
+    "static/media/search.svg": "/DeFi-Crypto-Website---Front-End/static/media/search.30befd690e24f5f9c5c9c56aff3ee256.svg",
+    "main.76f2a647.css.map": "/DeFi-Crypto-Website---Front-End/static/css/main.76f2a647.css.map",
+    "main.fe584091.js.map": "/DeFi-Crypto-Website---Front-End/static/js/main.fe584091.js.map",
+    "787.b0da207e.chunk.js.map": "/DeFi-Crypto-Website---Front-End/static/js/787.b0da207e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76f2a647.css",
+    "static/js/main.fe584091.js"
+  ]
+}
